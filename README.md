@@ -16,13 +16,15 @@ Build a DevOps CI/CD in AWS using CodePipeline & CodeBuild
 > git status
 > git add .gitignore
 > git commit -m "first commit"
+> git branch -M main
 > git remote add origin <repo-uri>
-> git push -u origin master
+> git push -u origin main
 ```
+<hr/>
 
 ### Build Commands
 ```
-PS D:\Learnings\AWS\Spring-Boot-Projects\Part08\aws-registration-service> mvn clean install
+PS D:\Learnings\AWS\Spring-Boot-Projects\Part16\aws-order-service> mvn clean install
 ```
 <hr/>
 
