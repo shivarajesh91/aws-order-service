@@ -3,8 +3,12 @@ Build a DevOps CI/CD in AWS using CodePipeline & CodeBuild
 <hr/>
 
 ### Reference
-* [YouTube Video](https://www.youtube.com/watch?v=aHuCeLn72Lg) : https://www.youtube.com/watch?v=aHuCeLn72Lg
-* [GitHub](https://github.com/basahota/order-service) : https://github.com/basahota/order-service
+#### 05/04/2025
+* [YouTube Video Part 1](https://www.youtube.com/watch?v=aHuCeLn72Lg) : https://www.youtube.com/watch?v=aHuCeLn72Lg
+* [GitHub Part 1](https://github.com/basahota/order-service) : https://github.com/basahota/order-service
+#### 07/04/2025
+* [YouTube Video Part 2](https://www.youtube.com/watch?v=yWc1I56-UII) : https://www.youtube.com/watch?v=yWc1I56-UII
+* [GitHub Part 2](https://github.com/basahota/order-service-codebuild-ecr) : https://github.com/basahota/order-service-codebuild-ecr
 <hr/>
 
 ### Git commands

@@ -23,7 +23,7 @@ public class OrderController {
     private OrderDao orderDao;
 
     @GetMapping
-    public List<Order> getOrders(){
+    public List<Order> fetchOrders(){
         return orderDao.getOrder()
                 .stream()
                 .sorted(Comparator.comparing(Order::getPrice))
